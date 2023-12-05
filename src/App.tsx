@@ -14,6 +14,27 @@ function App() {
         <div style={{
           border: "1px solid red",
           height: 56,
+          width: 180,
+          minWidth: 180,
+          maxWidth: 180,
+        }}></div>
+        <div style={{
+          border: "1px solid red",
+          height: 56,
+          width: 180,
+          minWidth: 180,
+          maxWidth: 180,
+        }}></div>
+        <div style={{
+          border: "1px solid red",
+          height: 56,
+          width: 180,
+          minWidth: 180,
+          maxWidth: 180,
+        }}></div>
+        <div style={{
+          border: "1px solid red",
+          height: 56,
           width: 100,
           minWidth: 100,
           maxWidth: 100,
@@ -21,14 +42,35 @@ function App() {
       </div>
       <div style={{ display: "flex" }}>
         <div style={{
-          border: "1px solid blue",
+          border: "1px solid red",
           minWidth: 180,
           maxWidth: 180,
           minHeight: 52,
           maxHeight: 52,
         }}></div>
         <div style={{
-          border: "1px solid blue",
+          border: "1px solid red",
+          minWidth: 180,
+          maxWidth: 180,
+          minHeight: 52,
+          maxHeight: 52,
+        }}></div>
+        <div style={{
+          border: "1px solid red",
+          minWidth: 180,
+          maxWidth: 180,
+          minHeight: 52,
+          maxHeight: 52,
+        }}></div>
+        <div style={{
+          border: "1px solid red",
+          minWidth: 180,
+          maxWidth: 180,
+          minHeight: 52,
+          maxHeight: 52,
+        }}></div>
+        <div style={{
+          border: "1px solid red",
           minWidth: 100,
           maxWidth: 100,
           minHeight: 52,
